@@ -1,5 +1,5 @@
 # syntax=docker/dockerfile:1
-# fuck erererererer
+# fuck ererere
 FROM node:18-alpine
 WORKDIR /app
 COPY . .
